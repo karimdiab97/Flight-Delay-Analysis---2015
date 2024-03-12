@@ -1,4 +1,4 @@
-![Home ](https://github.com/karimdiab97/Flight-Delay-Analysis---2015/assets/101432419/dac917aa-e15a-4686-93c8-2c6e44784fe9)# Flight-Delay-Analysis---2015
+# Flight-Delay-Analysis---2015
 
 I'm excited to share my latest project: an in-depth analysis of 2015 flight delay data in the US, conducted in collaboration with ITI. By analyzing over 6 million flight records, I've unearthed valuable insights that can benefit both airlines and travelers.
 
@@ -31,7 +31,7 @@ I'm excited to share my latest project: an in-depth analysis of 2015 flight dela
 - 🔗 [novypro Link] 
 
 ## Image:
-![Uploading Home .png
+![Home ](https://github.com/karimdiab97/Flight-Delay-Analysis---2015/assets/101432419/dac917aa-e15a-4686-93c8-2c6e44784fe9)
 ![Airport](https://github.com/karimdiab97/Flight-Delay-Analysis---2015/assets/101432419/33bc5186-84e6-4fcd-86d4-816276c70060)
 ![Airline](https://github.com/karimdiab97/Flight-Delay-Analysis---2015/assets/101432419/0d4934fd-4583-4dd7-9e82-936128273240)
 ![Delays](https://github.com/karimdiab97/Flight-Delay-Analysis---2015/assets/101432419/a2637241-35c4-4299-8b4d-161d5aa50b87)
